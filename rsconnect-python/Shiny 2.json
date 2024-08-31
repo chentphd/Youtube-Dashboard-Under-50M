@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\tonychen\\Documents\\Python Files\\Shiny 2",
+        "app_url": "https://chentphd.shinyapps.io/shiny_2/",
+        "app_id": 12570257,
+        "app_guid": null,
+        "title": "Shiny 2",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
