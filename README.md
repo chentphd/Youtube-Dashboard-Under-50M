@@ -24,3 +24,5 @@ This Shiny app visualizes YouTube statistics, focusing on the distribution of su
 - Key troubleshooting tips include ensuring Python version compatibility and addressing dependency issues.
 - Licensing information is provided at the end.
 
+##Deploy:
+- rsconnect deploy shiny  -n name .
